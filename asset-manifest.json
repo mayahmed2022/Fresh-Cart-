@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Fresh-Cart-/static/css/main.bdab698c.css",
+    "main.js": "/Fresh-Cart-/static/js/main.078fecc9.js",
+    "static/js/453.0b71bf06.chunk.js": "/Fresh-Cart-/static/js/453.0b71bf06.chunk.js",
+    "static/media/slider-2.jpeg": "/Fresh-Cart-/static/media/slider-2.92200ddb54f84e0e8c71.jpeg",
+    "static/media/fa-solid-900.ttf": "/Fresh-Cart-/static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/slider-image-1.jpeg": "/Fresh-Cart-/static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
+    "static/media/fa-brands-400.ttf": "/Fresh-Cart-/static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/slider-image-3.jpeg": "/Fresh-Cart-/static/media/slider-image-3.7e5c9f7a513f6db6dd5e.jpeg",
+    "static/media/slider-image-2.jpeg": "/Fresh-Cart-/static/media/slider-image-2.e510b0de8a4d96a1d5ad.jpeg",
+    "static/media/fa-solid-900.woff2": "/Fresh-Cart-/static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "/Fresh-Cart-/static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/error.svg": "/Fresh-Cart-/static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "/Fresh-Cart-/static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/fa-regular-400.woff2": "/Fresh-Cart-/static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/google play.jpg": "/Fresh-Cart-/static/media/google play.d14a68d8d41a840cea2b.jpg",
+    "static/media/app store.jpg": "/Fresh-Cart-/static/media/app store.d50fcacd53f5713bda68.jpg",
+    "static/media/amazon.jpg": "/Fresh-Cart-/static/media/amazon.0fec7093fd2cc2d87483.jpg",
+    "static/media/american.jpg": "/Fresh-Cart-/static/media/american.638d2e72d2c06f123d8f.jpg",
+    "static/media/fa-v4compatibility.ttf": "/Fresh-Cart-/static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/freshcart-logo.svg": "/Fresh-Cart-/static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "/Fresh-Cart-/static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "static/media/slick.svg": "/Fresh-Cart-/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Fresh-Cart-/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Fresh-Cart-/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Fresh-Cart-/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Fresh-Cart-/index.html",
+    "main.bdab698c.css.map": "/Fresh-Cart-/static/css/main.bdab698c.css.map",
+    "main.078fecc9.js.map": "/Fresh-Cart-/static/js/main.078fecc9.js.map",
+    "453.0b71bf06.chunk.js.map": "/Fresh-Cart-/static/js/453.0b71bf06.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bdab698c.css",
+    "static/js/main.078fecc9.js"
+  ]
+}
